@@ -14,7 +14,7 @@ Designed with testability and modularity in mind.
 - Dark Mode Support
 - Built using native iOS components 
 - Programmatic navigation using the NavigationPath API
-- Unit tests for all layers using the new swift-testing
+- Unit tests for using the new swift-testing
 - Built with iOS 18.2, Xcode 16.2
 
 ## API
