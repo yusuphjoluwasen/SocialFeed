@@ -19,8 +19,7 @@ Designed with testability and modularity in mind.
 
 ## API
 
-Data is fetched from:
-[https://engineering.league.dev/challenge/api/](https://engineering.league.dev/challenge/api/)
+Data is fetched from [this API endpoint](https://engineering.league.dev/challenge/api/).
 
 ## How it works
 
