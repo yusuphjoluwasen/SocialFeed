@@ -20,6 +20,7 @@ struct PostRowView: View {
             Text(description)
                 .font(.body)
                 .foregroundStyle(.secondary)
+                .lineLimit(3)
 
             Button(StringConstants.readMore, action: onTap)
                 .font(.caption)
