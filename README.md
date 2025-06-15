@@ -31,7 +31,7 @@ Data is fetched from [this API endpoint](https://engineering.league.dev/challeng
 
 <img src="https://github.com/user-attachments/assets/981e5cf0-7798-48f0-8a82-66d439df6ccb" alt="Splash Screen" width="200">
 <img src="https://github.com/user-attachments/assets/08e9b937-c0c2-4686-9039-f7ca4064829a" alt="Post View" width="200">
-<img src="https://github.com/user-attachments/assets/87c5f8c1-3419-43d1-a8b2-826db9d39bfe" alt="Post Detail" width="400">
-<img src="https://github.com/user-attachments/assets/5e455ab8-ed9f-40ec-90eb-09065dab80e4" alt="User Profile" width="400">
+<img src="https://github.com/user-attachments/assets/87c5f8c1-3419-43d1-a8b2-826db9d39bfe" alt="Post Detail" width="200">
+<img src="https://github.com/user-attachments/assets/5e455ab8-ed9f-40ec-90eb-09065dab80e4" alt="User Profile" width="200">
 
 
